@@ -1,0 +1,16 @@
+body {
+    background-image: url('images/paul-pastourmatzis-KT3WlrL_bsg-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+@font-face {
+    font-family: freeLicense;
+    src: url(fonts/Free\ License.ttf);
+}
+
+#main-title {
+    font-family: freeLicense;
+    color: #232935;
+}
